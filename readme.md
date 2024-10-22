@@ -1,7 +1,18 @@
 christoffer Loggbok
 
 
+24-09-24
+
+idag så lärde jag mig slumptal på 7070
+
 ==================
+
+24-09-23
+
+idag lärden jag mig mer om slingor 7061
+
+
+------------
 
 24-09-17
 

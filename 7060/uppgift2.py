@@ -1,5 +1,10 @@
-tal = 2
-while tal < 13:
-    print(tal)
-    tal += 2  
-print('Loopen har avslutats')
+antal = int(input("ur många heltal vill du ha?"))
+minst = int(input("Vilket är det minsta talet i serien?"))
+
+i = minst
+
+while i < minst + antal:
+    print(i)
+    i = i + 1
+print("klar")
+
